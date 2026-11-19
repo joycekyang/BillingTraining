@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":129,"text":"That brings us to the end of today's session."},{"start":2529,"text":"If questions come up at any point,"},{"start":4289,"text":"whether about the process itself or about coding,"},{"start":7369,"text":"reach out to accounts payable or to your FPNA partner for coding support."},{"start":11770,"text":"You're not expected to figure this out alone."},{"start":14529,"text":"Thank you all for your time and engagement today."},{"start":16930,"text":"Your role in this process truly matters and your attention"},{"start":19649,"text":"to detail is what keeps our operations running smoothly."},{"start":23129,"text":"Let's continue to stay proactive,"},{"start":25170,"text":"stay accurate,"},{"start":26010,"text":"and stay timely as we work together in Esker."}]}]};
+    window.globalLoadJsAsset('story_content/6BiYnRVPIo8_transcripts.js', JSON.stringify(data));
+})();

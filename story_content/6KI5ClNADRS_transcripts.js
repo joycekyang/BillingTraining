@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":50,"text":"Welcome and thank you for joining today's Esker accounts payable user training."},{"start":4730,"text":"In this session,"},{"start":5610,"text":"we'll walk through how we use Esker to"},{"start":7650,"text":"support both vendor management and accounts payable tasks."},{"start":11369,"text":"Depending on your role,"},{"start":12699,"text":"some of you may work only with vendor management,"},{"start":15100,"text":"while others handle both vendor setup and invoice processing."},{"start":18979,"text":"Whether today is a refresher or something entirely new,"},{"start":22180,"text":"this session has something for you,"},{"start":24059,"text":"and no matter where your work falls,"},{"start":25899,"text":"you'll leave with the knowledge you need to use Esker confidently."},{"start":29870,"text":"Let's start by looking at where we're headed today."}]}]};
+    window.globalLoadJsAsset('story_content/6KI5ClNADRS_transcripts.js', JSON.stringify(data));
+})();

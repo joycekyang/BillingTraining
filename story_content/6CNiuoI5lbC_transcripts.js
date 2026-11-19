@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":9,"text":"Let's start with vendor registration and verification,"},{"start":2920,"text":"the very first step that makes the entire Esker invoice workflow possible."},{"start":7610,"text":"Before a vendor can send us invoices or even appear in the routing structure,"},{"start":11609,"text":"they have to be fully set up and validated in Esker."},{"start":14649,"text":"Once they're approved,"},{"start":15760,"text":"that information synchronizes into Oracle."},{"start":18569,"text":"If a vendor isn't set up correctly,"},{"start":20409,"text":"nothing else can happen."},{"start":21739,"text":"No invoices,"},{"start":22770,"text":"no coding,"},{"start":23649,"text":"no approvals."},{"start":25129,"text":"Vendor creation is the foundation everything else is built on."},{"start":28989,"text":"So let's look at what it actually takes to register a vendor."}]}]};
+    window.globalLoadJsAsset('story_content/6CNiuoI5lbC_transcripts.js', JSON.stringify(data));
+})();
